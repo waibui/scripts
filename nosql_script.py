@@ -4,11 +4,11 @@ import urllib3
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-BASE_URL = "https://0a520072043ea95081fff35200ee00e7.web-security-academy.net/"
+BASE_URL = "https://0a1100410380aff681972f7600ce0062.web-security-academy.net"
 HEADERS = {
     "Content-Type": "application/x-www-form-urlencoded",
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64)",
-    "Cookie": "session=fF72Q5hjW729DmhEd8xQqLzMYiOxFDJD",
+    "Cookie": "session=vG61kmZstqFrgLBTbtdjtngXpB0jrftK",
     "Referer": BASE_URL
 }
 
